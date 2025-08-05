@@ -1,8 +1,10 @@
 # 🐍 Snake Game
 
-Welcome to the ** Snake Game ** – a fun, light-hearted twist on the classic Snake game, designed especially for kids!
+Welcome to the **Smiling Snake Game** – a fun, light-hearted twist on the classic Snake, designed especially for kids!
 
+<div align="center">
 <img src="snake_play.png" alt="Snake Gameplay" width="400">
+</div>
 
 ## ✨ Features
 
@@ -13,7 +15,9 @@ Welcome to the ** Snake Game ** – a fun, light-hearted twist on the classic Sn
 - 🎮 **Easy controls** with arrow keys or WASD
 - ⭐ **Level progression** with increasing difficulty
 
-<img src="game_over.png" alt="Game Over Screen" width="350">
+<div align="center">
+<img src="game_last.png" alt="Game Over Screen" width="350">
+</div>
 
 ## 🎮 How to Play
 
