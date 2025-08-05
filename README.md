@@ -16,7 +16,7 @@ Welcome to the **Smiling Snake Game** – a fun, light-hearted twist on the clas
 - ⭐ **Level progression** with increasing difficulty
 
 <div align="center">
-<img src="game_last.png" alt="Game Over Screen" width="350">
+<img src="game_last.png" alt="Game Over Screen" width="400">
 </div>
 
 ## 🎮 How to Play
