@@ -15,9 +15,6 @@ Welcome to the **Smiling Snake Game** – a fun, light-hearted twist on the clas
 - 🎮 **Easy controls** with arrow keys or WASD
 - ⭐ **Level progression** with increasing difficulty
 
-<div align="center">
-<img src="game_last.png" alt="Game Over Screen" width="400">
-</div>
 
 ## 🎮 How to Play
 
@@ -85,5 +82,9 @@ For questions, suggestions, or just to say hi:
 ## ⭐ Don't forget to star this repo if you like it!
 
 ---
+
+<div align="center">
+<img src="game_last.png" alt="Game Over Screen" width="400">
+</div>
 
 **Happy coding!** 😊🐍✨
